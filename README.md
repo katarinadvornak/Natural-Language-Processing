@@ -1,7 +1,7 @@
 ## Maastricht University NLP Course Labs
 
-This repository contains **four NLP labs** completed as part of the **Natural Language Processing course** at Maastricht University. The labs explore key NLP concepts, techniques, and applications.  
----
+This repository contains **four NLP labs** from the **Natural Language Processing course** at Maastricht University. The labs explore key NLP concepts, techniques, and applications.  
+
 ## Main Topics Covered
 - Text preprocessing and representation (tokenization, stemming, vectors)
 - Text classification and evaluation metrics
